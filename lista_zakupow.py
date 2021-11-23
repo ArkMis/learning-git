@@ -10,3 +10,4 @@ for sklep in shop_dict:
     print('Idę do '+sklep.capitalize()+', kupuję następujące rzeczy:'+repr(shop_dict[sklep]).title())
 print('W sumie kupuję '+repr(count)+' produktów')
 
+print("'Hiszpańska inkwizycja' to najlepszy skecz grupy Monty Pythona")
