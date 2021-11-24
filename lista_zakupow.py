@@ -1,4 +1,5 @@
 # Zadanie 1
+# specjalnie dla Jana
 shop_dict=dict()
 shop_dict['cukiernia']=['chałka', 'pączek', 'bułki']
 shop_dict['warzywniak']=['marchew', 'seler', 'pietruszka','ziemniaki']
